@@ -39,6 +39,8 @@ li a:hover{
 
 #photo{
     width: 200px;
+    float: left;
+    padding: 10px;
 }
 
 h1{
