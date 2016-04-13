@@ -28,3 +28,15 @@ nav>ul>li a{
 li a:hover{
     color: #363636;
 }
+
+#logo{
+    width: 300px;
+}
+
+#banner{
+    max-width: 960px;
+}
+
+#photo{
+    width: 200px;
+}
